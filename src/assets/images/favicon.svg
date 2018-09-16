@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500"/>
+  <path d="M 161.612 100.407 L 382.323 21.118 L 417.678 356.473 L 82.322 321.118 L 161.612 100.407 Z" style="stroke-width: 50px; stroke: rgb(255, 255, 255); fill: rgb(38, 136, 228);" transform="matrix(0.707107, 0.707107, -0.707107, 0.707107, 206.721878, -121.479782)"/>
+</svg>

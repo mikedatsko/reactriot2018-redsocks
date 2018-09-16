@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 20 201" width="0px" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <rect width="20" height="2" style="fill: rgb(255, 255, 255);"/>
+  <rect width="20" height="2" style="fill: rgb(255, 255, 255);" y="199" bx:origin="0 -200"/>
+  <rect width="20" height="2" style="fill: rgb(255, 255, 255);" y="100" bx:origin="0 -200"/>
+  <rect width="20" height="2" style="fill: rgb(255, 255, 255);" y="50" bx:origin="0 -200"/>
+  <rect width="20" height="2" style="fill: rgb(255, 255, 255);" y="150" bx:origin="0 -200"/>
+  <rect width="10" height="2" style="fill: rgb(255, 255, 255);" y="25" x="5" bx:origin="0 -200"/>
+  <rect width="10" height="2" style="fill: rgb(255, 255, 255);" y="75" x="5" bx:origin="0 -200"/>
+  <rect width="10" height="2" style="fill: rgb(255, 255, 255);" y="125" x="5" bx:origin="0 -200"/>
+  <rect width="10" height="2" style="fill: rgb(255, 255, 255);" y="175" x="5" bx:origin="0 -200"/>
+  <rect width="2" height="201" style="fill: rgb(255, 255, 255);" x="9" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="5" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="10" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="15" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="20" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="30" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="35" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="40" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="45" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="55" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="60" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="65" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="70" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="80" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="85" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="90" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="95" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="105" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="110" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="115" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="120" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="130" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="135" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="140" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="145" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="155" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="160" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="165" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="170" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="180" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="185" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="190" x="6" bx:origin="0 -200"/>
+  <rect width="8" height="1" style="fill: rgb(255, 255, 255);" y="195" x="6" bx:origin="0 -200"/>
+</svg>

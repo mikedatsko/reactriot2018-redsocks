@@ -1,0 +1,128 @@
+.score {
+  margin: 0 0 20px;
+  position: relative;
+  width: 800px;
+}
+
+.score-own {
+  display: flex;
+  background: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.5);
+  font-size: 40px;
+  padding: 20px;
+  position: absolute;
+  width: 200px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border-radius: 10px 10px 70px 10px;
+  left: 0;
+  top: 0;
+}
+
+.score-own:before {
+  content: 'YOU';
+  position: absolute;
+  top: -27px;
+  font-size: 20px;
+  background: dodgerblue;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-family: 'Play', sans-serif;
+}
+
+.score-opponent {
+  display: flex;
+  background: rgba(255,255,255,0.2);
+  border: 1px solid rgba(255,255,255,0.5);
+  font-size: 40px;
+  padding: 20px;
+  position: absolute;
+  width: 200px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  border-radius: 10px 10px 10px 70px;
+  right: 0;
+  top: 0;
+}
+
+.score-opponent:before {
+  content: 'ALIENS';
+  position: absolute;
+  top: -27px;
+  font-size: 20px;
+  background: coral;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-family: 'Play', sans-serif;
+}
+
+.score-progress {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  margin: 0 auto;
+  height: 400px;
+}
+
+.score-progress .score-progress-own {
+  display: flex;
+  left: 0;
+  bottom: 0;
+  width: 40px;
+  height: 214px;
+  position: absolute;
+  background-color: rgba(255,255,255,0.2);
+  background-image: url('../../assets/images/progress-scale.png');
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-bottom: 2px solid #fff;
+  border-radius: 5px;
+}
+
+.score-progress .score-progress-own .score-bar {
+  display: flex;
+  left: 14px;
+  bottom: -1px;
+  width: 10px;
+  position: absolute;
+  background: rgba(30, 144, 255, 0.7);
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.score-progress .score-progress-opponent {
+  display: flex;
+  right: 0;
+  bottom: 0;
+  width: 40px;
+  height: 214px;
+  position: absolute;
+  background-color: rgba(255,255,255,0.2);
+  background-image: url('../../assets/images/progress-scale.png');
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  border: 1px solid rgba(255,255,255,0.5);
+  border-bottom: 2px solid #fff;
+  border-radius: 5px;
+}
+
+.score-progress .score-progress-opponent .score-bar {
+  display: flex;
+  left: 14px;
+  bottom: -1px;
+  width: 10px;
+  position: absolute;
+  background: rgba(255, 127, 80, 0.7);
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.score .score-progress .score-data {
+  position: absolute;
+  color: #fff;
+  font-size: 14px;
+  width: 40px;
+  text-align: center;
+  bottom: -24px;
+}
